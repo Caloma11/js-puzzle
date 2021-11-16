@@ -46,3 +46,15 @@ button {
 .hint.active {
   opacity: 1;
 }
+
+
+#popup {
+  background-color: pink;
+  height: 100vh;
+  position: absolute;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display:  none;
+}
